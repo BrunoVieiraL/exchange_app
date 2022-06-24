@@ -1,16 +1,17 @@
 # converter_moedas
 
-A new Flutter project.
+My first project using API, not incredible but it taught me how an API works.
+<br>
 
-## Getting Started
+Converts one of the three currences to the others two.
+<br>
 
-This project is a starting point for a Flutter application.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73727609/175568306-18bac4a8-42a0-4c3d-ac8e-cc87a3df1bc1.png" width="350px" height ="650" />
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73727609/175568308-e1927a0a-1239-469f-92bb-307d6e830697.png" width="350px" height ="650" />
+</div>
