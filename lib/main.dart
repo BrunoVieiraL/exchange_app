@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'view/home_page.dart';
 
-var request =
-    Uri.parse("https://api.hgbrasil.com/finance?format=json&key=4de16a13");
 void main() async {
   runApp(const MyApp());
 }
