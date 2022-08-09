@@ -20,9 +20,10 @@ class TextFieldCustomWidget extends StatelessWidget {
       controller: controller,
       decoration: InputDecoration(
           labelText: label,
-          labelStyle: const TextStyle(color: Colors.amber),
+          labelStyle: TextStyle(color: Colors.amber.shade900),
           border: const OutlineInputBorder(),
-          prefixText: prefix),
+          prefixText: prefix,
+          prefixStyle: const TextStyle(color: Colors.amber, fontSize: 25)),
       style: const TextStyle(color: Colors.amber, fontSize: 25.0),
       onChanged: onChanged,
       keyboardType: TextInputType.number,
