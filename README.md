@@ -1,6 +1,6 @@
-# converter_moedas
+# exchange_app
 
-My first project using API, not incredible but it taught me how an API works.
+My first project using API, not incredible but it taught me how an API call works.
 <br>
 
 Converts one of the three currences to the others two.
